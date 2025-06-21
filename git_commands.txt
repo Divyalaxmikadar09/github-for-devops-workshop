@@ -13,4 +13,4 @@ testing.py
 ls
 git status
 git restore testing.py
- status
+status
